@@ -1,0 +1,5643 @@
+{
+  "width": 128,
+  "height": 128,
+  "bpp": 4,
+  "nibbleOrder": "low-first",
+  "glyphs": [
+    {
+      "code": 0,
+      "character": " ",
+      "rect": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 1,
+      "character": "!",
+      "rect": [
+        8,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        3,
+        0,
+        4,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 2,
+      "character": "'",
+      "rect": [
+        16,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        5,
+        3
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 3,
+      "character": "#",
+      "rect": [
+        24,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 4,
+      "character": "$",
+      "rect": [
+        32,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 5,
+      "character": "%",
+      "rect": [
+        40,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 6,
+      "character": "&",
+      "rect": [
+        48,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 7,
+      "character": "'",
+      "rect": [
+        56,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        3,
+        0,
+        5,
+        2
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 8,
+      "character": "(",
+      "rect": [
+        64,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        3,
+        0,
+        6,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 9,
+      "character": ")",
+      "rect": [
+        72,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        5,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 10,
+      "character": "男",
+      "rect": [
+        80,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 11,
+      "character": "+",
+      "rect": [
+        88,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        6,
+        6
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 12,
+      "character": ",",
+      "rect": [
+        96,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        5,
+        4,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 13,
+      "character": "-",
+      "rect": [
+        104,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        3,
+        6,
+        4
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 14,
+      "character": ".",
+      "rect": [
+        112,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        5,
+        4,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 15,
+      "character": "/",
+      "rect": [
+        120,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 16,
+      "character": "0",
+      "rect": [
+        0,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 17,
+      "character": "1",
+      "rect": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        4,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 18,
+      "character": "2",
+      "rect": [
+        16,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 19,
+      "character": "3",
+      "rect": [
+        24,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 20,
+      "character": "4",
+      "rect": [
+        32,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 21,
+      "character": "5",
+      "rect": [
+        40,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 22,
+      "character": "6",
+      "rect": [
+        48,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 23,
+      "character": "7",
+      "rect": [
+        56,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 24,
+      "character": "8",
+      "rect": [
+        64,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 25,
+      "character": "9",
+      "rect": [
+        72,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 26,
+      "character": ":",
+      "rect": [
+        80,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        1,
+        4,
+        6
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 27,
+      "character": "人",
+      "rect": [
+        88,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 28,
+      "character": "手",
+      "rect": [
+        96,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 29,
+      "character": "=",
+      "rect": [
+        104,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        6,
+        5
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 30,
+      "character": "玉",
+      "rect": [
+        112,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 31,
+      "character": "?",
+      "rect": [
+        120,
+        8,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 32,
+      "character": "石",
+      "rect": [
+        0,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 33,
+      "character": "A",
+      "rect": [
+        8,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 34,
+      "character": "B",
+      "rect": [
+        16,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 35,
+      "character": "C",
+      "rect": [
+        24,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 36,
+      "character": "D",
+      "rect": [
+        32,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 37,
+      "character": "E",
+      "rect": [
+        40,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 38,
+      "character": "F",
+      "rect": [
+        48,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 39,
+      "character": "G",
+      "rect": [
+        56,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 40,
+      "character": "H",
+      "rect": [
+        64,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 41,
+      "character": "I",
+      "rect": [
+        72,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        3,
+        0,
+        6,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 42,
+      "character": "J",
+      "rect": [
+        80,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 43,
+      "character": "K",
+      "rect": [
+        88,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 44,
+      "character": "L",
+      "rect": [
+        96,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 45,
+      "character": "M",
+      "rect": [
+        104,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 46,
+      "character": "N",
+      "rect": [
+        112,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 47,
+      "character": "O",
+      "rect": [
+        120,
+        16,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 48,
+      "character": "P",
+      "rect": [
+        0,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 49,
+      "character": "Q",
+      "rect": [
+        8,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 50,
+      "character": "R",
+      "rect": [
+        16,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 51,
+      "character": "S",
+      "rect": [
+        24,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 52,
+      "character": "T",
+      "rect": [
+        32,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 53,
+      "character": "U",
+      "rect": [
+        40,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 54,
+      "character": "V",
+      "rect": [
+        48,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 55,
+      "character": "W",
+      "rect": [
+        56,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 56,
+      "character": "X",
+      "rect": [
+        64,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 57,
+      "character": "Y",
+      "rect": [
+        72,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 58,
+      "character": "Z",
+      "rect": [
+        80,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 59,
+      "character": "[",
+      "rect": [
+        88,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        5,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 60,
+      "character": "剣",
+      "rect": [
+        96,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 61,
+      "character": "]",
+      "rect": [
+        104,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        3,
+        0,
+        6,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 62,
+      "character": "盾",
+      "rect": [
+        112,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 63,
+      "character": "_",
+      "rect": [
+        120,
+        24,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        6,
+        8,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 64,
+      "character": "書",
+      "rect": [
+        0,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 65,
+      "character": "a",
+      "rect": [
+        8,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 66,
+      "character": "b",
+      "rect": [
+        16,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 67,
+      "character": "c",
+      "rect": [
+        24,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 68,
+      "character": "d",
+      "rect": [
+        32,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 69,
+      "character": "e",
+      "rect": [
+        40,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 70,
+      "character": "f",
+      "rect": [
+        48,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 71,
+      "character": "g",
+      "rect": [
+        56,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 72,
+      "character": "h",
+      "rect": [
+        64,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 73,
+      "character": "i",
+      "rect": [
+        72,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        3,
+        0,
+        6,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 74,
+      "character": "j",
+      "rect": [
+        80,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 75,
+      "character": "k",
+      "rect": [
+        88,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 76,
+      "character": "l",
+      "rect": [
+        96,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        3,
+        0,
+        6,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 77,
+      "character": "m",
+      "rect": [
+        104,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 78,
+      "character": "n",
+      "rect": [
+        112,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 79,
+      "character": "o",
+      "rect": [
+        120,
+        32,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 80,
+      "character": "p",
+      "rect": [
+        0,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 81,
+      "character": "q",
+      "rect": [
+        8,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 82,
+      "character": "r",
+      "rect": [
+        16,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 83,
+      "character": "s",
+      "rect": [
+        24,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 84,
+      "character": "t",
+      "rect": [
+        32,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 85,
+      "character": "u",
+      "rect": [
+        40,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 86,
+      "character": "v",
+      "rect": [
+        48,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 87,
+      "character": "w",
+      "rect": [
+        56,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 88,
+      "character": "x",
+      "rect": [
+        64,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 89,
+      "character": "y",
+      "rect": [
+        72,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 90,
+      "character": "z",
+      "rect": [
+        80,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 91,
+      "character": "炎",
+      "rect": [
+        88,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 92,
+      "character": "氷",
+      "rect": [
+        96,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 93,
+      "character": "雷",
+      "rect": [
+        104,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 94,
+      "character": "~",
+      "rect": [
+        112,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        3,
+        8,
+        6
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 95,
+      "character": "女",
+      "rect": [
+        120,
+        40,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 96,
+      "character": "力",
+      "rect": [
+        0,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 97,
+      "character": "。",
+      "rect": [
+        8,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        5,
+        5,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 98,
+      "character": "「",
+      "rect": [
+        16,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        3,
+        0,
+        6,
+        4
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 99,
+      "character": "」",
+      "rect": [
+        24,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        3,
+        4,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 100,
+      "character": "、",
+      "rect": [
+        32,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        5,
+        4,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 101,
+      "character": "・",
+      "rect": [
+        40,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        3,
+        3,
+        5,
+        5
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 102,
+      "character": "ヲ",
+      "rect": [
+        48,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 103,
+      "character": "ァ",
+      "rect": [
+        56,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        3,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 104,
+      "character": "ィ",
+      "rect": [
+        64,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        3,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 105,
+      "character": "ゥ",
+      "rect": [
+        72,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 106,
+      "character": "ェ",
+      "rect": [
+        80,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        4,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 107,
+      "character": "ォ",
+      "rect": [
+        88,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 108,
+      "character": "ャ",
+      "rect": [
+        96,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        3,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 109,
+      "character": "ュ",
+      "rect": [
+        104,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        4,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 110,
+      "character": "ョ",
+      "rect": [
+        112,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        3,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 111,
+      "character": "ッ",
+      "rect": [
+        120,
+        48,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        3,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 112,
+      "character": "ー",
+      "rect": [
+        0,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        4,
+        6,
+        5
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 113,
+      "character": "ア",
+      "rect": [
+        8,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 114,
+      "character": "イ",
+      "rect": [
+        16,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 115,
+      "character": "ウ",
+      "rect": [
+        24,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 116,
+      "character": "エ",
+      "rect": [
+        32,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 117,
+      "character": "オ",
+      "rect": [
+        40,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 118,
+      "character": "カ",
+      "rect": [
+        48,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 119,
+      "character": "キ",
+      "rect": [
+        56,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 120,
+      "character": "ク",
+      "rect": [
+        64,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 121,
+      "character": "ケ",
+      "rect": [
+        72,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 122,
+      "character": "コ",
+      "rect": [
+        80,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 123,
+      "character": "サ",
+      "rect": [
+        88,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 124,
+      "character": "シ",
+      "rect": [
+        96,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 125,
+      "character": "ス",
+      "rect": [
+        104,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 126,
+      "character": "セ",
+      "rect": [
+        112,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 127,
+      "character": "ソ",
+      "rect": [
+        120,
+        56,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 128,
+      "character": "タ",
+      "rect": [
+        0,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 129,
+      "character": "チ",
+      "rect": [
+        8,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 130,
+      "character": "ツ",
+      "rect": [
+        16,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 131,
+      "character": "テ",
+      "rect": [
+        24,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 132,
+      "character": "ト",
+      "rect": [
+        32,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        3,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 133,
+      "character": "ナ",
+      "rect": [
+        40,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 134,
+      "character": "ニ",
+      "rect": [
+        48,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 135,
+      "character": "ヌ",
+      "rect": [
+        56,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 136,
+      "character": "ネ",
+      "rect": [
+        64,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 137,
+      "character": "ノ",
+      "rect": [
+        72,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 138,
+      "character": "ハ",
+      "rect": [
+        80,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 139,
+      "character": "ヒ",
+      "rect": [
+        88,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 140,
+      "character": "フ",
+      "rect": [
+        96,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 141,
+      "character": "ヘ",
+      "rect": [
+        104,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        8,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 142,
+      "character": "ホ",
+      "rect": [
+        112,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 143,
+      "character": "マ",
+      "rect": [
+        120,
+        64,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 144,
+      "character": "ミ",
+      "rect": [
+        0,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 145,
+      "character": "ム",
+      "rect": [
+        8,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 146,
+      "character": "メ",
+      "rect": [
+        16,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 147,
+      "character": "モ",
+      "rect": [
+        24,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 148,
+      "character": "ヤ",
+      "rect": [
+        32,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 149,
+      "character": "ユ",
+      "rect": [
+        40,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 150,
+      "character": "ヨ",
+      "rect": [
+        48,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 151,
+      "character": "ラ",
+      "rect": [
+        56,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 152,
+      "character": "リ",
+      "rect": [
+        64,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 153,
+      "character": "ル",
+      "rect": [
+        72,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 154,
+      "character": "レ",
+      "rect": [
+        80,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 155,
+      "character": "ロ",
+      "rect": [
+        88,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 156,
+      "character": "ワ",
+      "rect": [
+        96,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 157,
+      "character": "ン",
+      "rect": [
+        104,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 158,
+      "character": "ﾞ",
+      "rect": [
+        112,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        5,
+        6,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 159,
+      "character": "ﾟ",
+      "rect": [
+        120,
+        72,
+        8,
+        8
+      ],
+      "inkBounds": [
+        5,
+        5,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 160,
+      "character": "子",
+      "rect": [
+        0,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 161,
+      "character": "悪",
+      "rect": [
+        8,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 162,
+      "character": "魔",
+      "rect": [
+        16,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 163,
+      "character": "人",
+      "rect": [
+        24,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 164,
+      "character": "妖",
+      "rect": [
+        32,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 165,
+      "character": "精",
+      "rect": [
+        40,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 166,
+      "character": "を",
+      "rect": [
+        48,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 167,
+      "character": "ぁ",
+      "rect": [
+        56,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 168,
+      "character": "ぃ",
+      "rect": [
+        64,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        3,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 169,
+      "character": "ぅ",
+      "rect": [
+        72,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 170,
+      "character": "ぇ",
+      "rect": [
+        80,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 171,
+      "character": "ぉ",
+      "rect": [
+        88,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 172,
+      "character": "ゃ",
+      "rect": [
+        96,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 173,
+      "character": "ゅ",
+      "rect": [
+        104,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 174,
+      "character": "ょ",
+      "rect": [
+        112,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 175,
+      "character": "っ",
+      "rect": [
+        120,
+        80,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        3,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 176,
+      "character": "金",
+      "rect": [
+        0,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 177,
+      "character": "あ",
+      "rect": [
+        8,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 178,
+      "character": "い",
+      "rect": [
+        16,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 179,
+      "character": "う",
+      "rect": [
+        24,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 180,
+      "character": "え",
+      "rect": [
+        32,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 181,
+      "character": "お",
+      "rect": [
+        40,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 182,
+      "character": "か",
+      "rect": [
+        48,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 183,
+      "character": "き",
+      "rect": [
+        56,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 184,
+      "character": "く",
+      "rect": [
+        64,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 185,
+      "character": "け",
+      "rect": [
+        72,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 186,
+      "character": "こ",
+      "rect": [
+        80,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 187,
+      "character": "さ",
+      "rect": [
+        88,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 188,
+      "character": "し",
+      "rect": [
+        96,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 189,
+      "character": "す",
+      "rect": [
+        104,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 190,
+      "character": "せ",
+      "rect": [
+        112,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 191,
+      "character": "そ",
+      "rect": [
+        120,
+        88,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 192,
+      "character": "た",
+      "rect": [
+        0,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 193,
+      "character": "ち",
+      "rect": [
+        8,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 194,
+      "character": "つ",
+      "rect": [
+        16,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 195,
+      "character": "て",
+      "rect": [
+        24,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 196,
+      "character": "と",
+      "rect": [
+        32,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 197,
+      "character": "な",
+      "rect": [
+        40,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 198,
+      "character": "に",
+      "rect": [
+        48,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 199,
+      "character": "ぬ",
+      "rect": [
+        56,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 200,
+      "character": "ね",
+      "rect": [
+        64,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 201,
+      "character": "の",
+      "rect": [
+        72,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 202,
+      "character": "は",
+      "rect": [
+        80,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 203,
+      "character": "ひ",
+      "rect": [
+        88,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 204,
+      "character": "ふ",
+      "rect": [
+        96,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 205,
+      "character": "へ",
+      "rect": [
+        104,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        2,
+        8,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 206,
+      "character": "ほ",
+      "rect": [
+        112,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 207,
+      "character": "ま",
+      "rect": [
+        120,
+        96,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 208,
+      "character": "み",
+      "rect": [
+        0,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 209,
+      "character": "む",
+      "rect": [
+        8,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 210,
+      "character": "め",
+      "rect": [
+        16,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 211,
+      "character": "も",
+      "rect": [
+        24,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 212,
+      "character": "や",
+      "rect": [
+        32,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 213,
+      "character": "ゆ",
+      "rect": [
+        40,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 214,
+      "character": "よ",
+      "rect": [
+        48,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 215,
+      "character": "ら",
+      "rect": [
+        56,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 216,
+      "character": "り",
+      "rect": [
+        64,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 217,
+      "character": "る",
+      "rect": [
+        72,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 218,
+      "character": "れ",
+      "rect": [
+        80,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 219,
+      "character": "ろ",
+      "rect": [
+        88,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 220,
+      "character": "わ",
+      "rect": [
+        96,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 221,
+      "character": "ん",
+      "rect": [
+        104,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 222,
+      "character": "指",
+      "rect": [
+        112,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 223,
+      "character": "輪",
+      "rect": [
+        120,
+        104,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 224,
+      "character": "←",
+      "rect": [
+        0,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 225,
+      "character": "↖",
+      "rect": [
+        8,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        1,
+        8,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 226,
+      "character": "↑",
+      "rect": [
+        16,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 227,
+      "character": "↗",
+      "rect": [
+        24,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        1,
+        8,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 228,
+      "character": "→",
+      "rect": [
+        32,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        7
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 229,
+      "character": "↘",
+      "rect": [
+        40,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        2,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 230,
+      "character": "↓",
+      "rect": [
+        48,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 231,
+      "character": "↙",
+      "rect": [
+        56,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        2,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 232,
+      "character": "○",
+      "rect": [
+        64,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 233,
+      "character": "×",
+      "rect": [
+        72,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 234,
+      "character": "□",
+      "rect": [
+        80,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 235,
+      "character": "△",
+      "rect": [
+        88,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 236,
+      "character": "名",
+      "rect": [
+        96,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 237,
+      "character": "刀",
+      "rect": [
+        104,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 238,
+      "character": "聖",
+      "rect": [
+        112,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 239,
+      "character": "血",
+      "rect": [
+        120,
+        112,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 240,
+      "character": "✈",
+      "rect": [
+        0,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 241,
+      "character": "★",
+      "rect": [
+        8,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 242,
+      "character": "☀",
+      "rect": [
+        16,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 243,
+      "character": "☁",
+      "rect": [
+        24,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 244,
+      "character": "☃",
+      "rect": [
+        32,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 245,
+      "character": "♂",
+      "rect": [
+        40,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 246,
+      "character": "♀",
+      "rect": [
+        48,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 247,
+      "character": "©",
+      "rect": [
+        56,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 248,
+      "character": "®",
+      "rect": [
+        64,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 249,
+      "character": "§",
+      "rect": [
+        72,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 250,
+      "character": "¶",
+      "rect": [
+        80,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        7,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 251,
+      "character": "∑",
+      "rect": [
+        88,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        1,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 252,
+      "character": "大",
+      "rect": [
+        96,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 253,
+      "character": "光",
+      "rect": [
+        104,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 254,
+      "character": "邪",
+      "rect": [
+        112,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 255,
+      "character": "月",
+      "rect": [
+        120,
+        120,
+        8,
+        8
+      ],
+      "inkBounds": [
+        1,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    }
+  ],
+  "file": "BIN/F_GAME.BIN",
+  "fileOffset": "0x00030000",
+  "paletteOffset": "0x000412C0",
+  "vram": [
+    896,
+    256,
+    32,
+    128
+  ]
+}

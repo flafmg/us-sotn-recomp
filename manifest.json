@@ -1,0 +1,1361 @@
+{
+  "schemaVersion": 3,
+  "language": "English",
+  "scripts": "scripts",
+  "fonts": {
+    "small-alucard": {
+      "manifest": "fonts/small-alucard/font.json"
+    },
+    "small-richter": {
+      "manifest": "fonts/small-richter/font.json"
+    },
+    "menu-alphabet": {
+      "manifest": "fonts/menu-alphabet/font.json"
+    },
+    "menu-digits": {
+      "manifest": "fonts/menu-digits/font.json"
+    },
+    "sdk-debug": {
+      "manifest": "fonts/sdk-debug/font.json"
+    },
+    "bios-fallback": {
+      "manifest": "fonts/bios-fallback/font.json"
+    },
+    "bios-font": {
+      "manifest": "fonts/bios-font/font.json"
+    }
+  },
+  "audio": "audio.json",
+  "overlays": {
+    "main": {
+      "file": "SLUS_000.67",
+      "base": 2147549184,
+      "loadOffset": 2048,
+      "end": 563200
+    },
+    "dra": {
+      "file": "DRA.BIN",
+      "base": 2148139008,
+      "loadOffset": 0,
+      "end": 1153136
+    },
+    "ric": {
+      "file": "BIN/RIC.BIN",
+      "base": 2148777984,
+      "loadOffset": 0,
+      "end": 236120
+    },
+    "cen": {
+      "file": "ST/CEN/CEN.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 119916
+    },
+    "chi": {
+      "file": "ST/CHI/CHI.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 193576
+    },
+    "dai": {
+      "file": "ST/DAI/DAI.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 373764
+    },
+    "wrp": {
+      "file": "ST/WRP/WRP.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 83816
+    },
+    "top": {
+      "file": "ST/TOP/TOP.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 247132
+    },
+    "cat": {
+      "file": "ST/CAT/CAT.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 361920
+    },
+    "nz0": {
+      "file": "ST/NZ0/NZ0.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 309120
+    },
+    "nz1": {
+      "file": "ST/NZ1/NZ1.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 271168
+    },
+    "np3": {
+      "file": "ST/NP3/NP3.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 341044
+    },
+    "lib": {
+      "file": "ST/LIB/LIB.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 348876
+    },
+    "mad": {
+      "file": "ST/MAD/MAD.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 106132
+    },
+    "are": {
+      "file": "ST/ARE/ARE.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 352636
+    },
+    "dre": {
+      "file": "ST/DRE/DRE.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 147404
+    },
+    "rare": {
+      "file": "ST/RARE/RARE.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 234384
+    },
+    "rcat": {
+      "file": "ST/RCAT/RCAT.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 278188
+    },
+    "rwrp": {
+      "file": "ST/RWRP/RWRP.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 91880
+    },
+    "rtop": {
+      "file": "ST/RTOP/RTOP.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 200988
+    },
+    "sel": {
+      "file": "ST/SEL/SEL.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 355112
+    },
+    "bo4": {
+      "file": "BOSS/BO4/BO4.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 347704
+    },
+    "bo6": {
+      "file": "BOSS/BO6/BO6.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 333544
+    },
+    "mar": {
+      "file": "BOSS/MAR/MAR.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 110448
+    },
+    "rbo0": {
+      "file": "BOSS/RBO0/RBO0.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 160988
+    },
+    "rbo3": {
+      "file": "BOSS/RBO3/RBO3.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 132656
+    },
+    "rbo5": {
+      "file": "BOSS/RBO5/RBO5.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 345096
+    },
+    "st0": {
+      "file": "ST/ST0/ST0.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 271812
+    },
+    "no0": {
+      "file": "ST/NO0/NO0.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 390540
+    },
+    "no1": {
+      "file": "ST/NO1/NO1.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 356452
+    },
+    "no2": {
+      "file": "ST/NO2/NO2.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 327100
+    },
+    "no3": {
+      "file": "ST/NO3/NO3.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 359960
+    },
+    "no4": {
+      "file": "ST/NO4/NO4.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 391260
+    },
+    "rnz0": {
+      "file": "ST/RNZ0/RNZ0.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 281512
+    },
+    "rcen": {
+      "file": "ST/RCEN/RCEN.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 185300
+    },
+    "rchi": {
+      "file": "ST/RCHI/RCHI.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 174880
+    },
+    "rdai": {
+      "file": "ST/RDAI/RDAI.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 295736
+    },
+    "rlib": {
+      "file": "ST/RLIB/RLIB.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 201776
+    },
+    "rno0": {
+      "file": "ST/RNO0/RNO0.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 347020
+    },
+    "rno1": {
+      "file": "ST/RNO1/RNO1.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 229600
+    },
+    "rno2": {
+      "file": "ST/RNO2/RNO2.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 313816
+    },
+    "rno3": {
+      "file": "ST/RNO3/RNO3.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 304428
+    },
+    "rno4": {
+      "file": "ST/RNO4/RNO4.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 384020
+    },
+    "rnz1": {
+      "file": "ST/RNZ1/RNZ1.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 260960
+    },
+    "te1": {
+      "file": "ST/TE1/TE1.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 382240
+    },
+    "te2": {
+      "file": "ST/TE2/TE2.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 389124
+    },
+    "te3": {
+      "file": "ST/TE3/TE3.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 349248
+    },
+    "te4": {
+      "file": "ST/TE4/TE4.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 365984
+    },
+    "te5": {
+      "file": "ST/TE5/TE5.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 384428
+    },
+    "bo0": {
+      "file": "BOSS/BO0/BO0.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 320948
+    },
+    "bo1": {
+      "file": "BOSS/BO1/BO1.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 205756
+    },
+    "bo2": {
+      "file": "BOSS/BO2/BO2.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 223540
+    },
+    "bo3": {
+      "file": "BOSS/BO3/BO3.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 210224
+    },
+    "bo5": {
+      "file": "BOSS/BO5/BO5.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 218672
+    },
+    "bo7": {
+      "file": "BOSS/BO7/BO7.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 144480
+    },
+    "rbo1": {
+      "file": "BOSS/RBO1/RBO1.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 139104
+    },
+    "rbo2": {
+      "file": "BOSS/RBO2/RBO2.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 190792
+    },
+    "rbo4": {
+      "file": "BOSS/RBO4/RBO4.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 154660
+    },
+    "rbo6": {
+      "file": "BOSS/RBO6/RBO6.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 213060
+    },
+    "rbo7": {
+      "file": "BOSS/RBO7/RBO7.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 142572
+    },
+    "rbo8": {
+      "file": "BOSS/RBO8/RBO8.BIN",
+      "base": 2149056512,
+      "loadOffset": 0,
+      "end": 161212
+    },
+    "tt_000": {
+      "file": "SERVANT/TT_000.BIN",
+      "base": 2148990976,
+      "loadOffset": 0,
+      "end": 40960
+    },
+    "tt_001": {
+      "file": "SERVANT/TT_001.BIN",
+      "base": 2148990976,
+      "loadOffset": 0,
+      "end": 40960
+    },
+    "tt_002": {
+      "file": "SERVANT/TT_002.BIN",
+      "base": 2148990976,
+      "loadOffset": 0,
+      "end": 40960
+    },
+    "tt_003": {
+      "file": "SERVANT/TT_003.BIN",
+      "base": 2148990976,
+      "loadOffset": 0,
+      "end": 40960
+    },
+    "tt_004": {
+      "file": "SERVANT/TT_004.BIN",
+      "base": 2148990976,
+      "loadOffset": 0,
+      "end": 40960
+    },
+    "tt_005": {
+      "file": "SERVANT/TT_005.BIN",
+      "base": 2148990976,
+      "loadOffset": 0,
+      "end": 40960
+    },
+    "tt_006": {
+      "file": "SERVANT/TT_006.BIN",
+      "base": 2148990976,
+      "loadOffset": 0,
+      "end": 40960
+    },
+    "w0_000": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 16384,
+      "end": 28672
+    },
+    "w0_001": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 45056,
+      "end": 57344
+    },
+    "w0_002": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 73728,
+      "end": 86016
+    },
+    "w0_003": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 102400,
+      "end": 114688
+    },
+    "w0_004": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 131072,
+      "end": 143360
+    },
+    "w0_005": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 159744,
+      "end": 172032
+    },
+    "w0_006": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 188416,
+      "end": 200704
+    },
+    "w0_007": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 217088,
+      "end": 229376
+    },
+    "w0_008": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 245760,
+      "end": 258048
+    },
+    "w0_009": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 274432,
+      "end": 286720
+    },
+    "w0_010": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 303104,
+      "end": 315392
+    },
+    "w0_011": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 331776,
+      "end": 344064
+    },
+    "w0_012": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 360448,
+      "end": 372736
+    },
+    "w0_013": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 389120,
+      "end": 401408
+    },
+    "w0_014": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 417792,
+      "end": 430080
+    },
+    "w0_015": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 446464,
+      "end": 458752
+    },
+    "w0_016": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 475136,
+      "end": 487424
+    },
+    "w0_017": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 503808,
+      "end": 516096
+    },
+    "w0_018": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 532480,
+      "end": 544768
+    },
+    "w0_019": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 561152,
+      "end": 573440
+    },
+    "w0_020": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 589824,
+      "end": 602112
+    },
+    "w0_021": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 618496,
+      "end": 630784
+    },
+    "w0_022": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 647168,
+      "end": 659456
+    },
+    "w0_023": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 675840,
+      "end": 688128
+    },
+    "w0_024": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 704512,
+      "end": 716800
+    },
+    "w0_025": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 733184,
+      "end": 745472
+    },
+    "w0_026": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 761856,
+      "end": 774144
+    },
+    "w0_027": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 790528,
+      "end": 802816
+    },
+    "w0_028": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 819200,
+      "end": 831488
+    },
+    "w0_029": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 847872,
+      "end": 860160
+    },
+    "w0_030": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 876544,
+      "end": 888832
+    },
+    "w0_031": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 905216,
+      "end": 917504
+    },
+    "w0_032": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 933888,
+      "end": 946176
+    },
+    "w0_033": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 962560,
+      "end": 974848
+    },
+    "w0_034": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 991232,
+      "end": 1003520
+    },
+    "w0_035": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1019904,
+      "end": 1032192
+    },
+    "w0_036": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1048576,
+      "end": 1060864
+    },
+    "w0_037": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1077248,
+      "end": 1089536
+    },
+    "w0_038": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1105920,
+      "end": 1118208
+    },
+    "w0_039": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1134592,
+      "end": 1146880
+    },
+    "w0_040": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1163264,
+      "end": 1175552
+    },
+    "w0_041": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1191936,
+      "end": 1204224
+    },
+    "w0_042": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1220608,
+      "end": 1232896
+    },
+    "w0_043": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1249280,
+      "end": 1261568
+    },
+    "w0_044": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1277952,
+      "end": 1290240
+    },
+    "w0_045": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1306624,
+      "end": 1318912
+    },
+    "w0_046": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1335296,
+      "end": 1347584
+    },
+    "w0_047": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1363968,
+      "end": 1376256
+    },
+    "w0_048": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1392640,
+      "end": 1404928
+    },
+    "w0_049": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1421312,
+      "end": 1433600
+    },
+    "w0_050": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1449984,
+      "end": 1462272
+    },
+    "w0_051": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1478656,
+      "end": 1490944
+    },
+    "w0_052": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1507328,
+      "end": 1519616
+    },
+    "w0_053": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1536000,
+      "end": 1548288
+    },
+    "w0_054": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1564672,
+      "end": 1576960
+    },
+    "w0_055": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1593344,
+      "end": 1605632
+    },
+    "w0_056": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1622016,
+      "end": 1634304
+    },
+    "w0_057": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1650688,
+      "end": 1662976
+    },
+    "w0_058": {
+      "file": "BIN/WEAPON0.BIN",
+      "base": 2149031936,
+      "loadOffset": 1679360,
+      "end": 1691648
+    },
+    "w1_000": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 16384,
+      "end": 28672
+    },
+    "w1_001": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 45056,
+      "end": 57344
+    },
+    "w1_002": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 73728,
+      "end": 86016
+    },
+    "w1_003": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 102400,
+      "end": 114688
+    },
+    "w1_004": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 131072,
+      "end": 143360
+    },
+    "w1_005": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 159744,
+      "end": 172032
+    },
+    "w1_006": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 188416,
+      "end": 200704
+    },
+    "w1_007": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 217088,
+      "end": 229376
+    },
+    "w1_008": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 245760,
+      "end": 258048
+    },
+    "w1_009": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 274432,
+      "end": 286720
+    },
+    "w1_010": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 303104,
+      "end": 315392
+    },
+    "w1_011": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 331776,
+      "end": 344064
+    },
+    "w1_012": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 360448,
+      "end": 372736
+    },
+    "w1_013": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 389120,
+      "end": 401408
+    },
+    "w1_014": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 417792,
+      "end": 430080
+    },
+    "w1_015": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 446464,
+      "end": 458752
+    },
+    "w1_016": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 475136,
+      "end": 487424
+    },
+    "w1_017": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 503808,
+      "end": 516096
+    },
+    "w1_018": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 532480,
+      "end": 544768
+    },
+    "w1_019": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 561152,
+      "end": 573440
+    },
+    "w1_020": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 589824,
+      "end": 602112
+    },
+    "w1_021": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 618496,
+      "end": 630784
+    },
+    "w1_022": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 647168,
+      "end": 659456
+    },
+    "w1_023": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 675840,
+      "end": 688128
+    },
+    "w1_024": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 704512,
+      "end": 716800
+    },
+    "w1_025": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 733184,
+      "end": 745472
+    },
+    "w1_026": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 761856,
+      "end": 774144
+    },
+    "w1_027": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 790528,
+      "end": 802816
+    },
+    "w1_028": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 819200,
+      "end": 831488
+    },
+    "w1_029": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 847872,
+      "end": 860160
+    },
+    "w1_030": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 876544,
+      "end": 888832
+    },
+    "w1_031": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 905216,
+      "end": 917504
+    },
+    "w1_032": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 933888,
+      "end": 946176
+    },
+    "w1_033": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 962560,
+      "end": 974848
+    },
+    "w1_034": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 991232,
+      "end": 1003520
+    },
+    "w1_035": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1019904,
+      "end": 1032192
+    },
+    "w1_036": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1048576,
+      "end": 1060864
+    },
+    "w1_037": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1077248,
+      "end": 1089536
+    },
+    "w1_038": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1105920,
+      "end": 1118208
+    },
+    "w1_039": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1134592,
+      "end": 1146880
+    },
+    "w1_040": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1163264,
+      "end": 1175552
+    },
+    "w1_041": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1191936,
+      "end": 1204224
+    },
+    "w1_042": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1220608,
+      "end": 1232896
+    },
+    "w1_043": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1249280,
+      "end": 1261568
+    },
+    "w1_044": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1277952,
+      "end": 1290240
+    },
+    "w1_045": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1306624,
+      "end": 1318912
+    },
+    "w1_046": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1335296,
+      "end": 1347584
+    },
+    "w1_047": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1363968,
+      "end": 1376256
+    },
+    "w1_048": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1392640,
+      "end": 1404928
+    },
+    "w1_049": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1421312,
+      "end": 1433600
+    },
+    "w1_050": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1449984,
+      "end": 1462272
+    },
+    "w1_051": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1478656,
+      "end": 1490944
+    },
+    "w1_052": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1507328,
+      "end": 1519616
+    },
+    "w1_053": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1536000,
+      "end": 1548288
+    },
+    "w1_054": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1564672,
+      "end": 1576960
+    },
+    "w1_055": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1593344,
+      "end": 1605632
+    },
+    "w1_056": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1622016,
+      "end": 1634304
+    },
+    "w1_057": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1650688,
+      "end": 1662976
+    },
+    "w1_058": {
+      "file": "BIN/WEAPON1.BIN",
+      "base": 2149031936,
+      "loadOffset": 1679360,
+      "end": 1691648
+    }
+  },
+  "preview": {
+    "st0": {
+      "actors": [
+        {
+          "name": "Richter",
+          "palette": 560
+        },
+        {
+          "name": "Dracula",
+          "palette": 584
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "lib": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 544
+        },
+        {
+          "name": "Master Librarian",
+          "palette": 552
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "cen": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 512
+        },
+        {
+          "name": "Maria",
+          "palette": 520
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "nz0": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 568
+        },
+        {
+          "name": "Maria",
+          "palette": 576
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "no3": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 736
+        },
+        {
+          "name": "Death",
+          "palette": 744
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "no4": {
+      "actors": [
+        {
+          "name": "Ferryman",
+          "palette": 544
+        }
+      ],
+      "layout": "ferryman"
+    },
+    "dai": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 600
+        },
+        {
+          "name": "Maria",
+          "palette": 608
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "dre": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 520
+        },
+        {
+          "name": "Lisa",
+          "palette": 528
+        },
+        {
+          "name": "Succubus",
+          "palette": 536
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "mar": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 512
+        },
+        {
+          "name": "Maria",
+          "palette": 520
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "sel": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 576
+        },
+        {
+          "name": "Maria",
+          "palette": 584
+        },
+        {
+          "name": "Richter",
+          "palette": 592
+        }
+      ],
+      "layout": "dialogue",
+      "palettes": {
+        "576": "0xCFB4",
+        "584": "0xD1B4",
+        "592": "0xD3B4"
+      }
+    },
+    "bo2": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 560
+        },
+        {
+          "name": "Richter",
+          "palette": 568
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "bo5": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 528
+        },
+        {
+          "name": "Maria",
+          "palette": 536
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "rbo2": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 528
+        },
+        {
+          "name": "Death",
+          "palette": 536
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "rbo6": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 528
+        },
+        {
+          "name": "Dracula",
+          "palette": 536
+        }
+      ],
+      "layout": "dialogue"
+    },
+    "rcen": {
+      "actors": [
+        {
+          "name": "Alucard",
+          "palette": 528
+        },
+        {
+          "name": "Shaft",
+          "palette": 536
+        }
+      ],
+      "layout": "dialogue"
+    }
+  },
+  "strings": "strings.json",
+  "dialogue": {
+    "visibleLines": 4,
+    "textTop": 20,
+    "textHeight": 48,
+    "textLeft": 12,
+    "textWidth": 192
+  }
+}

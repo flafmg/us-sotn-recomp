@@ -1,0 +1,932 @@
+{
+  "width": 128,
+  "height": 80,
+  "bpp": 4,
+  "nibbleOrder": "low-first",
+  "glyphs": [
+    {
+      "code": 0,
+      "character": "a",
+      "rect": [
+        0,
+        0,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00026C00",
+      "sourceStride": 64,
+      "uv": [
+        128,
+        176
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 1,
+      "character": "b",
+      "rect": [
+        16,
+        0,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00026C08",
+      "sourceStride": 64,
+      "uv": [
+        144,
+        176
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 2,
+      "character": "c",
+      "rect": [
+        32,
+        0,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00026C10",
+      "sourceStride": 64,
+      "uv": [
+        160,
+        176
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 3,
+      "character": "d",
+      "rect": [
+        48,
+        0,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00026C18",
+      "sourceStride": 64,
+      "uv": [
+        176,
+        176
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 4,
+      "character": "e",
+      "rect": [
+        64,
+        0,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00026C20",
+      "sourceStride": 64,
+      "uv": [
+        192,
+        176
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 5,
+      "character": "f",
+      "rect": [
+        80,
+        0,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00026C28",
+      "sourceStride": 64,
+      "uv": [
+        208,
+        176
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 6,
+      "character": "g",
+      "rect": [
+        96,
+        0,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00026C30",
+      "sourceStride": 64,
+      "uv": [
+        224,
+        176
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 7,
+      "character": "h",
+      "rect": [
+        112,
+        0,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00026C38",
+      "sourceStride": 64,
+      "uv": [
+        240,
+        176
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 8,
+      "character": "i",
+      "rect": [
+        0,
+        16,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027000",
+      "sourceStride": 64,
+      "uv": [
+        128,
+        192
+      ],
+      "inkBounds": [
+        1,
+        0,
+        14,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 9,
+      "character": "j",
+      "rect": [
+        16,
+        16,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027008",
+      "sourceStride": 64,
+      "uv": [
+        144,
+        192
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 10,
+      "character": "k",
+      "rect": [
+        32,
+        16,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027010",
+      "sourceStride": 64,
+      "uv": [
+        160,
+        192
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 11,
+      "character": "l",
+      "rect": [
+        48,
+        16,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027018",
+      "sourceStride": 64,
+      "uv": [
+        176,
+        192
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 12,
+      "character": "m",
+      "rect": [
+        64,
+        16,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027020",
+      "sourceStride": 64,
+      "uv": [
+        192,
+        192
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 13,
+      "character": "n",
+      "rect": [
+        80,
+        16,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027028",
+      "sourceStride": 64,
+      "uv": [
+        208,
+        192
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 14,
+      "character": "o",
+      "rect": [
+        96,
+        16,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027030",
+      "sourceStride": 64,
+      "uv": [
+        224,
+        192
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 15,
+      "character": "p",
+      "rect": [
+        112,
+        16,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027038",
+      "sourceStride": 64,
+      "uv": [
+        240,
+        192
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 16,
+      "character": "q",
+      "rect": [
+        0,
+        32,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027400",
+      "sourceStride": 64,
+      "uv": [
+        128,
+        208
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 17,
+      "character": "r",
+      "rect": [
+        16,
+        32,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027408",
+      "sourceStride": 64,
+      "uv": [
+        144,
+        208
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 18,
+      "character": "s",
+      "rect": [
+        32,
+        32,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027410",
+      "sourceStride": 64,
+      "uv": [
+        160,
+        208
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 19,
+      "character": "t",
+      "rect": [
+        48,
+        32,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027418",
+      "sourceStride": 64,
+      "uv": [
+        176,
+        208
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 20,
+      "character": "u",
+      "rect": [
+        64,
+        32,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027420",
+      "sourceStride": 64,
+      "uv": [
+        192,
+        208
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 21,
+      "character": "v",
+      "rect": [
+        80,
+        32,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027428",
+      "sourceStride": 64,
+      "uv": [
+        208,
+        208
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 22,
+      "character": "w",
+      "rect": [
+        96,
+        32,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027430",
+      "sourceStride": 64,
+      "uv": [
+        224,
+        208
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 23,
+      "character": "x",
+      "rect": [
+        112,
+        32,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027438",
+      "sourceStride": 64,
+      "uv": [
+        240,
+        208
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 24,
+      "character": "y",
+      "rect": [
+        0,
+        48,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027800",
+      "sourceStride": 64,
+      "uv": [
+        128,
+        224
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 25,
+      "character": "z",
+      "rect": [
+        16,
+        48,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027808",
+      "sourceStride": 64,
+      "uv": [
+        144,
+        224
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 26,
+      "character": "&",
+      "rect": [
+        32,
+        48,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027810",
+      "sourceStride": 64,
+      "uv": [
+        160,
+        224
+      ],
+      "inkBounds": [
+        0,
+        0,
+        15,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 27,
+      "character": "!",
+      "rect": [
+        48,
+        48,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027818",
+      "sourceStride": 64,
+      "uv": [
+        176,
+        224
+      ],
+      "inkBounds": [
+        5,
+        0,
+        10,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 28,
+      "character": "-",
+      "rect": [
+        64,
+        48,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027820",
+      "sourceStride": 64,
+      "uv": [
+        192,
+        224
+      ],
+      "inkBounds": [
+        1,
+        5,
+        14,
+        9
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 29,
+      "character": ".",
+      "rect": [
+        80,
+        48,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027828",
+      "sourceStride": 64,
+      "uv": [
+        208,
+        224
+      ],
+      "inkBounds": [
+        2,
+        10,
+        7,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 30,
+      "character": "'",
+      "rect": [
+        96,
+        48,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027830",
+      "sourceStride": 64,
+      "uv": [
+        224,
+        224
+      ],
+      "inkBounds": [
+        2,
+        0,
+        8,
+        9
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 31,
+      "character": "?",
+      "rect": [
+        112,
+        48,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027838",
+      "sourceStride": 64,
+      "uv": [
+        240,
+        224
+      ],
+      "inkBounds": [
+        2,
+        0,
+        13,
+        15
+      ],
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 32,
+      "character": " ",
+      "rect": [
+        0,
+        64,
+        16,
+        16
+      ],
+      "sourceOffset": "0x00027C30",
+      "sourceStride": 64,
+      "uv": [
+        224,
+        240
+      ],
+      "inkBounds": null,
+      "originalAdvance": 16,
+      "advance": 16,
+      "offset": [
+        0,
+        0
+      ]
+    }
+  ],
+  "file": "ST/SEL/F_SEL.BIN",
+  "paletteFile": "ST/SEL/SEL.BIN",
+  "paletteOffset": "0x0000CD54",
+  "tpage": 12,
+  "clutId": 512
+}

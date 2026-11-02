@@ -1,0 +1,28 @@
+{
+  "width": 16,
+  "height": 15,
+  "bpp": 1,
+  "bitOrder": "high-first",
+  "file": "DRA.BIN",
+  "fileOffset": "0x0000C914",
+  "address": "0x800AC914",
+  "codeTableAddress": "0x800AC910",
+  "glyphs": [
+    {
+      "code": 40788,
+      "character": "\u00a9",
+      "rect": [
+        0,
+        0,
+        16,
+        15
+      ],
+      "advance": 12,
+      "originalAdvance": null,
+      "offset": [
+        0,
+        0
+      ]
+    }
+  ]
+}

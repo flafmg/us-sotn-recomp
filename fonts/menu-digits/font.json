@@ -1,0 +1,233 @@
+{
+  "width": 80,
+  "height": 8,
+  "bpp": 4,
+  "nibbleOrder": "low-first",
+  "glyphs": [
+    {
+      "code": 0,
+      "character": "0",
+      "rect": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 1,
+      "character": "1",
+      "rect": [
+        8,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        2,
+        0,
+        6,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 2,
+      "character": "2",
+      "rect": [
+        16,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 3,
+      "character": "3",
+      "rect": [
+        24,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 4,
+      "character": "4",
+      "rect": [
+        32,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 5,
+      "character": "5",
+      "rect": [
+        40,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 6,
+      "character": "6",
+      "rect": [
+        48,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 7,
+      "character": "7",
+      "rect": [
+        56,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 8,
+      "character": "8",
+      "rect": [
+        64,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    },
+    {
+      "code": 9,
+      "character": "9",
+      "rect": [
+        72,
+        0,
+        8,
+        8
+      ],
+      "inkBounds": [
+        0,
+        0,
+        8,
+        8
+      ],
+      "originalAdvance": 8,
+      "advance": 8,
+      "offset": [
+        0,
+        0
+      ]
+    }
+  ],
+  "file": "ST/SEL/F_SEL.BIN",
+  "fileOffset": "0x00023E18",
+  "sourceStride": 64,
+  "paletteFile": "ST/SEL/SEL.BIN",
+  "paletteOffset": "0x0000CD54"
+}
